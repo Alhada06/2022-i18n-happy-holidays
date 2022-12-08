@@ -9,6 +9,7 @@
   "dependencies": {
     "@vue/runtime-core": "^3.2.45",
     "@vueuse/core": "9.6.0",
+    "date-fns": "^2.29.3",
     "vue": "^3.2.45",
     "vue-i18n": "9.2.2"
   },
